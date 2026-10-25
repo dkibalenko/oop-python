@@ -1,0 +1,15 @@
+# Notebooks
+jupyterlab>=4.2
+ipykernel>=6.29
+
+# Testing
+pytest>=8.3
+pytest-cov>=5.0
+hypothesis>=6.112
+
+# Linting and type checking
+ruff>=0.7
+mypy>=1.13
+
+# Modern data classes (M4, M9)
+pydantic>=2.9
